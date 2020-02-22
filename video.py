@@ -34,3 +34,5 @@ if __name__ == '__main__':
     movie = "Terracehouse.mp4"
     starts_ends = mk_starts_ends(cdir, movie)
     exstract_voice(starts_ends)
+
+    print ("kyuykyuioipasdhasyfahjshkhdaskd")
