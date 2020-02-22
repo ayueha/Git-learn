@@ -1,3 +1,3 @@
 #Git branch learning
-##このGITリポジトリではブランチについてまなぶよ
+##このGITリポジトリではブランチについてまなぶよ  
 1 今のステータス：__master__ と __development__　があるお
